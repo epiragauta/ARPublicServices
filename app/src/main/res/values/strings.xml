@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR Servicios Públicos</string>
+    <string name="map_mode">Modo Mapa</string>
+    <string name="ar_mode">Modo AR</string>
+    <string name="loading_services">Cargando servicios...</string>
+    <string name="no_services_found">No se encontraron servicios en esta área</string>
+    <string name="permission_location_required">Se requiere permiso de ubicación</string>
+    <string name="permission_camera_required">Se requiere permiso de cámara para AR</string>
+    <string name="arcore_required">ARCore es requerido para esta aplicación</string>
+</resources>
