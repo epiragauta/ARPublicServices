@@ -11,11 +11,11 @@ buildscript {
 }
 
 allprojects {
-    repositories {
+    /*repositories {
         google()
         mavenCentral()
         maven { url 'https://maven.google.com' }
-    }
+    }*/
 }
 
 task clean(type: Delete) {
